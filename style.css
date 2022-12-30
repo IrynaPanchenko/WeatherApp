@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  }
+
+
+
+h1 {
+  color: #7c7c7c;
+  font-size: 36px;
+  margin: 20px 0px;
+}
+ul {
+  list-style: none;
+  color: #7c7c7c;
+  margin: 20px 0;
+  padding: 0;
+  }
+
+
+.weather-app {
+  border: 1px solid #dadde1;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 20px;
+  max-width: 600px;
+}
+
+.temperature {
+  color: #7c7c7c;
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 1;
+  }
+.units{
+  color: #7c7c7c;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 1;
+ 
+}
+.wind {
+  color: #7c7c7c;
+}
